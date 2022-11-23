@@ -1,0 +1,22 @@
+{
+  "name": "onary-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pengu12345/onary-bot.git"
+  },
+  "author": "Pengu123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pengu12345/onary-bot/issues"
+  },
+  "homepage": "https://github.com/Pengu12345/onary-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
